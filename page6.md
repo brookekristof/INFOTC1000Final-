@@ -9,4 +9,6 @@ At the end of the summer Brooke will be going to Branson for a family reunion.
 
 **Free time**
 She wants to start painting a lot more over the summer. She will need to make a few canvases for her little she will get in the fall through her soroity.
-Brooke also wants to visit with her high school friends over the summer. 
+Brooke also wants to visit with her high school friends over the summer.
+
+[Click Here to go back to the home page](./README.md)
